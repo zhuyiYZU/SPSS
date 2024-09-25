@@ -1,0 +1,3 @@
+computer,processor,desktop,PCs,computers,PC,cpu,Compuserve,CPU,keyboards,computer,hardware,modem,Computer,keyboard,modems,pc,machines,terminals,software,Software,chips
+science,Technology,tech,science,engineering,research,lab,theory,scientist,experiment,technology
+
